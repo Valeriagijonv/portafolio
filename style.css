@@ -1,0 +1,79 @@
+#fondo{
+    background-image: url(https://i.pinimg.com/564x/51/11/64/51116440c72eb22d0df789adb9a9c314.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#img-perfil{
+    width: 150px; 
+    border: radius 99px;
+}
+
+#img-stack{
+    width: 500px;
+}
+#fondoperfil{
+    background-color: rgb(252, 252, 252);
+}
+
+.bg-primary{
+    background-color: #43fdbf!important;
+}
+
+.nav-link{
+    color: #653208!important;
+}
+
+.text-bg-primary {
+    background-color: #fd9843!important;
+}
+
+.btn-primary {
+    background-color: #fd9843!important;
+}
+.titulo-proyecto{
+    text-shadow: 2px 5px 30px #000000;
+}
+
+#proyecto-1{
+    background-image: url('imagenes/proyecto-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#proyecto-2{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-3{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-4{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-5{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-6{
+    background-image: url('unsplash-photo-1.jpg');
+}
+
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #fd9843;
+    height: 5px;
+}
+
+.carousel-caption{
+    color:black;
+}
+
+.icono {
+    font-size: 2rem;
+    color: white;
+    margin: 12px;
+}
+
