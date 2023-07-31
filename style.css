@@ -1,74 +1,77 @@
 #fondo{
-    background-image: url(https://i.pinimg.com/564x/51/11/64/51116440c72eb22d0df789adb9a9c314.jpg);
+    background-image: url(https://i.pinimg.com/564x/d1/a2/4f/d1a24ff93dbcca4838c2d5b7c79704f2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    text-decoration-color: aquamarine;
+    
 }
 
-#img-perfil{
-    width: 150px; 
-    border: radius 99px;
-}
 
 #img-stack{
     width: 500px;
 }
 #fondoperfil{
-    background-color: rgb(252, 252, 252);
+    box-sizing: content-box;
 }
 
+
+
 .bg-primary{
-    background-color: #43fdbf!important;
+    background-color: #e8e2ff!important;
 }
 
 .nav-link{
-    color: #653208!important;
+    color: #ffffff!important;
 }
 
 .text-bg-primary {
-    background-color: #fd9843!important;
+    background-color: #7b471d!important;
 }
 
 .btn-primary {
     background-color: #fd9843!important;
 }
+
+#secciones{
+    background-color: #fffffff7;
+}
+#proyectos{
+    background-color: #e8e2ff;
+}
 .titulo-proyecto{
     text-shadow: 2px 5px 30px #000000;
+    
 }
 
-#proyecto-1{
-    background-image: url('imagenes/proyecto-1.jpg');
-    background-repeat: no-repeat;
+#Calculo-de-Insolación-Solar{
+    background-image: url('imagenes/sol.jpg');
     background-position: center;
-    background-size: cover;
-}
+    
 
-#proyecto-2{
-    background-image: url('unsplash-photo-1.jpg');
 }
-#proyecto-3{
-    background-image: url('unsplash-photo-1.jpg');
-}
-#proyecto-4{
-    background-image: url('unsplash-photo-1.jpg');
-}
-#proyecto-5{
-    background-image: url('unsplash-photo-1.jpg');
-}
-#proyecto-6{
-    background-image: url('unsplash-photo-1.jpg');
-}
+#clonacion-google{
+    background-image: url('https://i.pinimg.com/564x/47/3b/71/473b71b6dab0a384a8798d2683010df3.jpg');
+    background-position: center;
 
+}
+#miprimerapagina{
+    background-image: url(https://i.pinimg.com/originals/b1/84/78/b184782b999a9c27030d36d2bfcf0f24.gif);
+}
+#galeria{
+    background-color: #e8e2ff;
+}
+.carousel-inner{
+    display: flex;
+  overflow: hidden;
+}
 .carousel-item{
-    height: 400px;
+    flex: 0 0 auto;
+  margin: 100 200px;
 }
 
-.carousel-indicators [data-bs-target] {
-    background-color: #fd9843;
-    height: 5px;
-}
-
-.carousel-caption{
-    color:black;
+.d-block{
+    width: 100%;
+  height: auto;
 }
 
 .icono {

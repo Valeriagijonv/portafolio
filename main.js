@@ -34,9 +34,9 @@ let typewriter = new Typewriter(app, {
 typewriter
 // 1000 milisegundos es 1 segundo
   .pauseFor(1000)
-  .typeString('Desarrollo Web')
+  .typeString('Desarrolladora Web')
   .deleteChars(20)
   .typeString('Valeria Gijón')
-  .pauseFor(300)
+  .pauseFor(500)
   .deleteChars(20)
   .start();
