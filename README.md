@@ -31,4 +31,4 @@ Además se incluyen *Google Fonts*.
 ## Contacto
 
 Desarrollado por:  en Tecnolochicas PRO Summer Camp.
-[Malinali Becerril](https://www.linkedin.com/in/malibb/).
+[Valeria Gijón](https://www.linkedin.com/in/mildred-valeria-gij%C3%B3n-v%C3%A1zquez/).
