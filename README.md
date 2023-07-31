@@ -30,5 +30,5 @@ Además se incluyen *Google Fonts*.
 
 ## Contacto
 
-Desarrollado por:  en Tecnolochicas PRO Summer Camp.
-[Valeria Gijón](https://www.linkedin.com/in/mildred-valeria-gij%C3%B3n-v%C3%A1zquez/).
+Desarrollado por:  
+[Valeria Gijón](https://www.linkedin.com/in/mildred-valeria-gij%C3%B3n-v%C3%A1zquez/) en Tecnolochicas PRO Summer Camp.
