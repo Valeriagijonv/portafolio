@@ -10,8 +10,7 @@ Incluye una descripción de su motivación, experiencia, proyectos, artículos p
 
 También contiene una sección de almacenamiento de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScript.
 
-
-## Producto
+Te dejo el enlace de mi prortafolio, echale un vistazo:
 
 
 ## Tecnologías
